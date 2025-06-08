@@ -1,0 +1,1 @@
+# Aplica-o-IEEE-802.11-LoRaWAN-SigFox-4G-5G
